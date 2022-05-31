@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+front/node_modules/
+front/package-lock.json
+config
+front/public/uploads/
+.idea/
+
+.DS_Store*
+Icon?
+._*
+
+config/config.json
+COYG_owner-platform.iml
+uploads/

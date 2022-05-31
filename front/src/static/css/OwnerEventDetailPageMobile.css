@@ -1,0 +1,19 @@
+.section{
+    border-bottom: thick double gray;
+}
+
+.divi:after{
+    content: "";
+    display: block;
+    width: 100%;
+    border-bottom:  solid;
+    margin: 0px auto;
+}
+
+.divi2:after{
+    content: "";
+    display: block;
+    width: 80%;
+    border-bottom: 1px gray solid;
+    margin: 0px auto;
+}
